@@ -1,2 +1,1 @@
-printf("Enter the name:");
-
+print("Hello, World!")
